@@ -25,5 +25,4 @@ in termux>
 set your password
 ```
 
-#License > Mit  
-Golden Rahul
+
